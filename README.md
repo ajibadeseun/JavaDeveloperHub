@@ -3,8 +3,8 @@ This is an app that display the Github picture and name of Java Developers in La
 
 # Screenshots
 
-<img src="https://github.com/ajibadeseun/JavaDeveloperHub/blob/master/Screenshot_20180303-143833.png" width="200" height="400" />
-<img src="https://github.com/ajibadeseun/JavaDeveloperHub/blob/master/Screenshot_20180303-143838.png" width="200" height="400" />
+<img src="https://github.com/ajibadeseun/JavaDeveloperHub/blob/master/Screenshot_20180303-143833.png" width="300" height="450" />
+<img src="https://github.com/ajibadeseun/JavaDeveloperHub/blob/master/Screenshot_20180303-143838.png" width="300" height="450" />
 
 # Dependencies 
 Add the following dependencies to your build.gradle(Module:app) file under the dependencies tree:
